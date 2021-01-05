@@ -1,0 +1,19 @@
+{
+  "name": "Suleman",
+  "version": "1.0.0",
+  "description": "testing purpose",
+  "main": "Req.js",
+  "scripts": {
+    "start": "node Req.js",
+    "dev": "nodemon Req.js"
+  },
+  "keywords": [],
+  "author": "umair_ABBAS",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
